@@ -11,5 +11,13 @@ General Reset
 
 body {
     display: grid;
+    height: 100vh;
     border: solid rgb(17, 171, 7) 5px;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(4, 1fr);
+}
+
+.child {
+    border: solid rgb(233, 32, 234);
+    
 }
