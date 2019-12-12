@@ -1,0 +1,10 @@
+/* Style Sheet for Exercise 50 about grid layout */
+
+/*************
+General Reset
+*************/
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
