@@ -25,3 +25,5 @@ You NOW have an empty row at the bottom of your container. Select items and span
     -   Use **Git properly**
     -   Feel free to document your code with comments.
 
+-----------
+In case you lose the link: https://github.com/wi-fighters/50-uib-layout-grid-SimonSchoetz
