@@ -8,3 +8,8 @@ General Reset
     margin: 0;
     box-sizing: border-box;
 }
+
+body {
+    display: grid;
+    border: solid rgb(17, 171, 7) 5px;
+}
